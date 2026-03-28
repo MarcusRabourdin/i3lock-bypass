@@ -1,8 +1,8 @@
 #!/bin/sh
 
 file="/tmp/pid.save"
-time_before_kill=5 
-time_after_kill=10
+time_before_kill=60
+time_after_kill=20
 is_killed=0
 
 if [ "$#" -eq 1 ]; then
