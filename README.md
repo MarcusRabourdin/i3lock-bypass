@@ -11,7 +11,6 @@
 * All you have to do is run `./setup`.
 * Then the bypass will be added to the binary directory and will run automatically.
 * The next time the `i3lock` command is executed, a background process will kill it after 1 minute.
-* You have 20 seconds to run the `bypass` command in any terminal to stop the background process.
+* Then you will have 20 seconds to run the `bypass` command in any terminal to stop the background process.
 * If you don’t, the script will automatically run `i3lock` again to keep its existence secret.
-
 
