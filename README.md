@@ -1,1 +1,1 @@
-# i3lock-bypass
+# bypass i3lock
