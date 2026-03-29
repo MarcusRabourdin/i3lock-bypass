@@ -1,5 +1,0 @@
-#!/bin/sh
-
-file="src/bypass"
-cp $file ~/.local/bin
-bypass
