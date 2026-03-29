@@ -8,4 +8,5 @@ else
 fi
 mkdir -p "$dir"
 cp "$file" "$dir"
-bypass
+
+"$file"
