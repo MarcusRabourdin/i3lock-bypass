@@ -1,6 +1,6 @@
 #!/bin/sh
 
-file="src/bypass"
+file="src/bypass.sh"
 if [ -n "$AFS_DIR" ]; then
     dir="$AFS_DIR/bin"
 else
